@@ -1,6 +1,3 @@
-# CrewAI-intelligent-agents-GenAI-Python---NotebookLM-Project
-
-# CrewAI-intelligent-agents-GenAI-Python---NotebookLM-Project
 
 # 🧭 Projeto NotebookLM — Agentes Inteligentes com CrewAI, LangGraph e GenAI
 
