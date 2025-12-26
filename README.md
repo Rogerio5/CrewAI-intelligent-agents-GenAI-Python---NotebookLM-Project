@@ -160,14 +160,6 @@ Cada parte inclui:
 
 ---
 
-## 🚀 Próximos Passos
-
-- Criar uma visualização interativa dos fluxos LangGraph e CrewAI  
-- Integrar com APIs reais para simular agentes em produção  
-- Expandir o segundo cérebro com novos estudos e benchmarks  
-
----
-
 ## ✅ Conclusão
 
 Este projeto mostra como agentes inteligentes podem transformar processos técnicos e estratégicos.  
