@@ -76,12 +76,19 @@ Criar um **segundo cérebro estruturado** para organizar e conectar quatro pilar
   - “Agentes reduzem custos de atendimento”  
   - “Multi-cloud aumenta resiliência”  
 
+---
+
+### 🧠 NotebookLM Mind Map 
+
+Representa a estrutura conceitual do projeto e suas conexões.
 
 ![Capa do Projeto](NotebookLM_Mind_Map.png)
 
 ---
 
-## 🖥️ Bastidores do Projeto — Interface NotebookLM Captura de tela mostrando a organização de fontes, slides e ferramentas de síntese no NotebookLM. Utilizado para estruturar o conhecimento e gerar conteúdos visuais e analíticos. 
+## 🖥️ Bastidores do Projeto 
+
+Interface NotebookLM Captura de tela mostrando a organização de fontes, slides e ferramentas de síntese no NotebookLM. Utilizado para estruturar o conhecimento e gerar conteúdos visuais e analíticos. 
 
 ![🧪 Workspace NotebookLM](NotebookLM_Workspace.png)
 
