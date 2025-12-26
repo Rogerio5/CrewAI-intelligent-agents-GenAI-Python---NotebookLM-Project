@@ -1,4 +1,3 @@
-
 # 🧭 Projeto NotebookLM — Agentes Inteligentes com CrewAI, LangGraph e GenAI
 
 Este projeto foi desenvolvido como uma experiência prática e estratégica para explorar o uso de agentes inteligentes autônomos com GenAI.  
@@ -79,6 +78,12 @@ Criar um **segundo cérebro estruturado** para organizar e conectar quatro pilar
 
 
 ![Capa do Projeto](NotebookLM_Mind_Map.png)
+
+---
+
+## 🖥️ Bastidores do Projeto — Interface NotebookLM Captura de tela mostrando a organização de fontes, slides e ferramentas de síntese no NotebookLM. Utilizado para estruturar o conhecimento e gerar conteúdos visuais e analíticos. 
+
+![🧪 Workspace NotebookLM](NotebookLM_Workspace.png)
 
 ---
 
