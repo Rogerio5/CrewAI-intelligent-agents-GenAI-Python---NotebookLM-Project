@@ -3,6 +3,11 @@
 Este projeto foi desenvolvido como uma experiência prática e estratégica para explorar o uso de agentes inteligentes autônomos com GenAI.  
 A proposta é aplicar frameworks como **LangChain, LangGraph e CrewAI** em contextos reais de negócio e arquitetura técnica, organizando o conhecimento com metodologias como **PARA, Zettelkasten e Evergreen Notes**.
 
+---
+
+### 📊 NotebookLM Infográfico
+
+Explica visualmente o ciclo ReAct, arquitetura RAG e frameworks usados
 
 ![Capa do Projeto](NotebookLM_Infografico.png)
 
