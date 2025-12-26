@@ -160,6 +160,13 @@ Cada parte inclui:
 
 ---
 
+## 👨‍💻 Pessoa Desenvolvedor do Projeto / Project Developer
+
+- [Rogerio](https://github.com/Rogerio5)
+- [Ronaldo](https://github.com/Ronaldo94-GITHUB)
+
+---
+
 ## ✅ Conclusão
 
 Este projeto mostra como agentes inteligentes podem transformar processos técnicos e estratégicos.  
